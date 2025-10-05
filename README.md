@@ -2,4 +2,4 @@
 This is a new repo to the git hub to check the commands of git
 done of coder.
 how was the day?
-#do you copy?
+# do you copy?
